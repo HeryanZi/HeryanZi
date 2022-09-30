@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeryanZi
 - 👀 I’m interested in VB.NET,C#,C++
 - 🌱 I’m currently learning VB.NET
-- 💞️ I’m looking to collaborate on Any Project
+- 💞️ I’m looking to collaborate on team
 - 📫 How to reach me ...
 
 <!---
